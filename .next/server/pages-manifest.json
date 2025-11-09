@@ -1,0 +1,17 @@
+{
+  "/": "pages/index.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/account": "pages/account.html",
+  "/admin/users": "pages/admin/users.html",
+  "/credits": "pages/credits.html",
+  "/dashboard": "pages/dashboard.html",
+  "/dm-templates": "pages/dm-templates.html",
+  "/hashtag-discovery": "pages/hashtag-discovery.html",
+  "/login": "pages/login.html",
+  "/post-scheduler": "pages/post-scheduler.html",
+  "/signup": "pages/signup.html",
+  "/subscription": "pages/subscription.html",
+  "/404": "pages/404.html"
+}

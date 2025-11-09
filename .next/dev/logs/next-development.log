@@ -1,0 +1,597 @@
+[00:00:01.483] Server  LOG      ✓ Ready in 932ms
+[00:00:06.285] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[00:18:17.228] Server  LOG      ✓ Compiled in 111ms
+[00:19:04.330] Server  LOG      ✓ Compiled in 129ms
+[00:19:04.331] Browser LOG     Refreshing page data due to server-side change
+[00:19:05.326] Browser ERROR   ./pages/account.js:404:13
+Parsing ecmascript source code failed
+  402 |           )}
+  403 |         {/* </section> */}
+> 404 |       </div>
+      |             ^
+> 405 |     </Layout>
+      | ^^^^^
+  406 |   );
+  407 | }
+  408 |
+
+Expected '</', got 'jsx text (
+    )'
+[00:19:05.573] Server  LOG      ✓ Compiled in 91ms
+[00:19:06.318] Browser LOG     Refreshing page data due to server-side change
+[00:19:20.484] Server  LOG      ✓ Compiled in 84ms
+[00:19:21.323] Browser LOG     Refreshing page data due to server-side change
+[00:20:24.905] Server  LOG      ✓ Compiled in 112ms
+[00:20:27.256] Server  LOG      ✓ Compiled in 75ms
+[00:20:30.083] Server  LOG      ✓ Compiled in 68ms
+[00:22:46.873] Server  LOG      ✓ Compiled in 98ms
+[00:23:00.637] Server  LOG      ✓ Compiled in 186ms
+[00:27:32.581] Server  LOG      ✓ Compiled in 263ms
+[00:38:06.281] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[00:42:22.604] Server  LOG      ✓ Compiled in 178ms
+[00:42:32.175] Server  ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[00:42:32.456] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[00:42:34.456] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[00:47:38.993] Server  LOG      ✓ Compiled in 11ms
+[00:47:54.708] Server  LOG      ✓ Compiled in 210ms
+[00:47:55.328] Browser LOG     Refreshing page data due to server-side change
+[00:47:55.328] Browser ERROR   uncaughtError: ReferenceError: selectClass is not defined
+[00:47:55.328] Browser ERROR   uncaughtError: ReferenceError: selectClass is not defined
+[00:47:55.328] Browser ERROR   The above error occurred in the <PostScheduler> component:
+
+    at PostScheduler (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__7a5eb156._.js?id=%255Bproject%255D%252Fpages%252Fpost-scheduler.js+%255Bclient%255D+%2528ecmascript%2529:29:155)
+    at AuthenticatedComponent (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__38dd45a8._.js:1266:165)
+    at AuthProvider (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__45dcca62._.js:488:25)
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__45dcca62._.js:649:18)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_82dc2e9d._.js:5040:43)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1129:9)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1906:34)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:3041:1)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:3140:25)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:3348:17)
+
+React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:48:13.928] Server  LOG      ✓ Compiled in 180ms
+[00:48:14.321] Browser LOG     Refreshing page data due to server-side change
+[00:48:33.717] Server  LOG      ✓ Compiled in 580ms
+[00:49:05.261] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[00:51:22.652] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[00:55:00.993] Server  LOG      ✓ Compiled in 247ms
+[01:07:37.913] Server  LOG      ✓ Compiled in 125ms
+[01:07:38.327] Browser LOG     Refreshing page data due to server-side change
+[01:07:41.525] Server  ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[01:07:41.863] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[01:07:52.586] Server  LOG      ✓ Compiled in 112ms
+[01:07:53.271] Browser LOG     Refreshing page data due to server-side change
+[01:09:42.532] Server  LOG      ✓ Compiled in 162ms
+[01:09:43.320] Browser LOG     Refreshing page data due to server-side change
+[01:09:55.000] Server  LOG      ✓ Compiled in 116ms
+[01:09:55.325] Browser LOG     Refreshing page data due to server-side change
+[01:27:11.751] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./pages/index.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:27:11.752] Browser LOG     Refreshing page data due to server-side change
+[01:27:12.066] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/"
+[01:27:12.122] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/"
+[01:27:12.127] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./pages/index.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:27:12.203] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/"
+[01:27:12.256] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/"
+[01:27:12.531] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/"
+[01:27:12.580] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/"
+[01:27:12.782] Browser ERROR   uncaughtError: Error: The default export is not a React Component in page: "/"
+[01:27:15.466] Server  LOG      ✓ Compiled in 279ms
+[01:27:36.135] Server  LOG      ✓ Compiled in 175ms
+[01:27:48.580] Server  ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[01:27:48.887] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[01:30:15.679] Server  LOG      ✓ Compiled in 1274ms
+[01:30:40.901] Server  LOG      ✓ Compiled in 968ms
+[01:30:45.543] Server  LOG      ✓ Compiled in 942ms
+[01:31:02.425] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[01:31:11.738] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[01:31:12.119] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[01:33:19.842] Server  LOG      ✓ Compiled in 1094ms
+[01:34:25.729] Server  LOG      ✓ Compiled in 138ms
+[01:35:25.300] Server  ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[01:35:25.618] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[01:42:09.028] Server  LOG      ✓ Compiled in 127ms
+[01:42:09.327] Browser LOG     Refreshing page data due to server-side change
+[01:42:09.327] Browser ERROR   ./pages/index.js:308:22
+Parsing ecmascript source code failed
+  306 |             </div>
+  307 |           </div>
+> 308 |         </section> */}
+      |                      ^
+  309 |
+  310 |         {/* Pricing Section (Tiered Intelligence) */}
+  311 |         <section id="pricing" className="space-y-16 pt-20">
+
+Expected ',', got '}'
+[01:42:13.898] Server  LOG      ✓ Compiled in 119ms
+[01:42:14.318] Browser LOG     Refreshing page data due to server-side change
+[01:42:20.109] Server  LOG      ✓ Compiled in 102ms
+[01:42:20.314] Browser LOG     Refreshing page data due to server-side change
+[01:42:24.789] Server  LOG      ✓ Compiled in 97ms
+[01:42:37.819] Server  LOG      ✓ Compiled in 122ms
+[01:42:38.317] Browser LOG     Refreshing page data due to server-side change
+[01:42:41.504] Server  ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[01:42:41.917] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[01:44:16.101] Server  LOG      ✓ Compiled in 95ms
+[01:44:16.321] Browser LOG     Refreshing page data due to server-side change
+[01:44:18.526] Server  LOG      ✓ Compiled in 120ms
+[01:44:19.321] Browser LOG     Refreshing page data due to server-side change
+[01:46:51.152] Server  LOG      ✓ Compiled in 278ms
+[01:46:57.134] Server  LOG      ✓ Compiled in 249ms
+[01:47:05.063] Server  LOG      ✓ Compiled in 250ms
+[01:47:09.962] Server  LOG      ✓ Compiled in 217ms
+[01:47:22.176] Server  LOG      ✓ Compiled in 217ms
+[01:47:28.989] Server  LOG      ✓ Compiled in 182ms
+[01:47:33.254] Server  LOG      ✓ Compiled in 216ms
+[01:47:34.586] Server  ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[01:47:34.887] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[01:47:46.866] Server  LOG      ✓ Compiled in 223ms
+[01:47:54.246] Server  LOG      ✓ Compiled in 90ms
+[01:47:56.935] Server  LOG      ✓ Compiled in 95ms
+[01:48:05.328] Server  LOG      ✓ Compiled in 93ms
+[01:48:15.787] Server  LOG      ✓ Compiled in 98ms
+[01:48:46.812] Server  LOG      ✓ Compiled in 304ms
+[01:48:52.779] Server  LOG      ✓ Compiled in 246ms
+[01:48:58.242] Server  LOG      ✓ Compiled in 245ms
+[01:49:02.490] Server  LOG      ✓ Compiled in 245ms
+[01:49:05.641] Server  LOG      ✓ Compiled in 238ms
+[01:49:09.905] Server  LOG      ✓ Compiled in 222ms
+[01:49:13.970] Server  LOG      ✓ Compiled in 170ms
+[01:49:18.552] Server  LOG      ✓ Compiled in 172ms
+[01:49:25.475] Server  LOG      ✓ Compiled in 95ms
+[01:49:32.047] Server  LOG      ✓ Compiled in 155ms
+[01:49:36.979] Server  LOG      ✓ Compiled in 185ms
+[01:49:40.061] Server  LOG      ✓ Compiled in 146ms
+[01:49:43.094] Server  LOG      ✓ Compiled in 92ms
+[01:49:45.092] Server  LOG      ✓ Compiled in 137ms
+[01:49:49.856] Server  LOG      ✓ Compiled in 224ms
+[01:49:53.942] Server  LOG      ✓ Compiled in 198ms
+[01:49:57.472] Server  LOG      ✓ Compiled in 204ms
+[01:50:01.720] Server  LOG      ✓ Compiled in 166ms
+[01:50:07.403] Server  LOG      ✓ Compiled in 183ms
+[01:50:11.817] Server  LOG      ✓ Compiled in 179ms
+[01:50:14.817] Server  LOG      ✓ Compiled in 84ms
+[01:50:16.168] Server  LOG      ✓ Compiled in 216ms
+[01:50:20.099] Server  LOG      ✓ Compiled in 208ms
+[01:50:25.396] Server  LOG      ✓ Compiled in 172ms
+[01:50:27.946] Server  LOG      ✓ Compiled in 246ms
+[01:50:31.869] Server  LOG      ✓ Compiled in 90ms
+[01:50:32.958] Server  LOG      ✓ Compiled in 88ms
+[01:50:35.044] Server  LOG      ✓ Compiled in 234ms
+[01:50:47.772] Server  LOG      ✓ Compiled in 271ms
+[01:50:51.971] Server  LOG      ✓ Compiled in 157ms
+[01:50:56.736] Server  LOG      ✓ Compiled in 173ms
+[01:51:00.286] Server  LOG      ✓ Compiled in 166ms
+[01:51:05.550] Server  LOG      ✓ Compiled in 203ms
+[01:51:08.564] Server  LOG      ✓ Compiled in 82ms
+[01:51:12.731] Server  LOG      ✓ Compiled in 186ms
+[01:51:19.366] Server  LOG      ✓ Compiled in 93ms
+[01:51:21.744] Server  LOG      ✓ Compiled in 204ms
+[01:51:40.338] Server  LOG      ✓ Compiled in 167ms
+[01:51:52.183] Server  LOG      ✓ Compiled in 202ms
+[01:51:59.017] Server  LOG      ✓ Compiled in 92ms
+[01:52:03.462] Server  LOG      ✓ Compiled in 189ms
+[01:52:06.762] Server  LOG      ✓ Compiled in 199ms
+[01:52:12.427] Server  LOG      ✓ Compiled in 288ms
+[01:52:21.523] Server  LOG      ✓ Compiled in 233ms
+[01:52:30.048] Server  LOG      ✓ Compiled in 261ms
+[01:52:36.985] Server  LOG      ✓ Compiled in 253ms
+[01:52:40.968] Server  LOG      ✓ Compiled in 228ms
+[01:52:47.982] Server  LOG      ✓ Compiled in 215ms
+[01:52:51.646] Server  LOG      ✓ Compiled in 188ms
+[01:53:01.911] Server  LOG      ✓ Compiled in 268ms
+[01:53:05.575] Server  LOG      ✓ Compiled in 180ms
+[01:53:10.873] Server  LOG      ✓ Compiled in 209ms
+[01:53:21.620] Server  LOG      ✓ Compiled in 199ms
+[01:53:27.734] Server  LOG      ✓ Compiled in 141ms
+[01:53:32.898] Server  LOG      ✓ Compiled in 172ms
+[01:53:40.562] Server  LOG      ✓ Compiled in 233ms
+[01:53:44.457] Server  LOG      ✓ Compiled in 85ms
+[01:53:48.928] Server  LOG      ✓ Compiled in 187ms
+[01:53:53.010] Server  LOG      ✓ Compiled in 172ms
+[01:53:58.255] Server  LOG      ✓ Compiled in 205ms
+[01:54:02.072] Server  LOG      ✓ Compiled in 212ms
+[01:54:06.438] Server  LOG      ✓ Compiled in 266ms
+[01:54:22.698] Server  LOG      ✓ Compiled in 195ms
+[01:54:26.373] Server  LOG      ✓ Compiled in 90ms
+[01:54:28.993] Server  LOG      ✓ Compiled in 257ms
+[01:54:36.661] Server  LOG      ✓ Compiled in 221ms
+[01:54:39.410] Server  LOG      ✓ Compiled in 257ms
+[01:54:41.727] Server  LOG      ✓ Compiled in 192ms
+[01:54:46.690] Server  LOG      ✓ Compiled in 211ms
+[01:54:50.124] Server  LOG      ✓ Compiled in 225ms
+[01:54:54.323] Server  LOG      ✓ Compiled in 165ms
+[01:54:56.748] Server  LOG      ✓ Compiled in 87ms
+[01:54:58.237] Server  LOG      ✓ Compiled in 192ms
+[01:55:01.036] Server  LOG      ✓ Compiled in 201ms
+[01:55:18.334] Server  LOG      ✓ Compiled in 220ms
+[01:55:22.297] Server  LOG      ✓ Compiled in 184ms
+[01:55:32.806] Server  LOG      ✓ Compiled in 251ms
+[01:55:40.558] Server  LOG      ✓ Compiled in 235ms
+[01:55:47.521] Server  LOG      ✓ Compiled in 223ms
+[01:55:54.816] Server  LOG      ✓ Compiled in 97ms
+[01:55:55.986] Server  LOG      ✓ Compiled in 162ms
+[01:56:00.816] Server  LOG      ✓ Compiled in 195ms
+[01:56:04.914] Server  LOG      ✓ Compiled in 167ms
+[01:56:09.481] Server  LOG      ✓ Compiled in 222ms
+[01:56:12.911] Server  LOG      ✓ Compiled in 147ms
+[01:56:20.558] Server  LOG      ✓ Compiled in 214ms
+[01:56:32.938] Server  LOG      ✓ Compiled in 210ms
+[01:56:36.600] Server  LOG      ✓ Compiled in 99ms
+[01:56:38.086] Server  LOG      ✓ Compiled in 185ms
+[01:56:44.068] Server  LOG      ✓ Compiled in 187ms
+[01:56:48.898] Server  LOG      ✓ Compiled in 150ms
+[01:56:53.232] Server  LOG      ✓ Compiled in 192ms
+[01:56:57.530] Server  LOG      ✓ Compiled in 171ms
+[01:57:01.861] Server  LOG      ✓ Compiled in 187ms
+[01:57:14.393] Server  LOG      ✓ Compiled in 253ms
+[01:57:16.888] Server  LOG      ✓ Compiled in 130ms
+[01:57:17.990] Server  LOG      ✓ Compiled in 211ms
+[01:57:29.086] Server  LOG      ✓ Compiled in 247ms
+[01:57:31.551] Server  LOG      ✓ Compiled in 160ms
+[01:57:36.650] Server  LOG      ✓ Compiled in 199ms
+[01:57:40.533] Server  LOG      ✓ Compiled in 187ms
+[01:57:45.315] Server  LOG      ✓ Compiled in 146ms
+[01:57:48.565] Server  LOG      ✓ Compiled in 115ms
+[01:57:57.760] Server  LOG      ✓ Compiled in 185ms
+[01:58:01.309] Server  LOG      ✓ Compiled in 175ms
+[01:58:03.510] Server  LOG      ✓ Compiled in 85ms
+[01:58:05.191] Server  LOG      ✓ Compiled in 179ms
+[01:58:08.557] Server  LOG      ✓ Compiled in 257ms
+[01:58:11.655] Server  LOG      ✓ Compiled in 198ms
+[01:58:15.637] Server  LOG      ✓ Compiled in 211ms
+[01:58:18.902] Server  LOG      ✓ Compiled in 145ms
+[01:58:26.683] Server  LOG      ✓ Compiled in 195ms
+[01:58:34.197] Server  LOG      ✓ Compiled in 215ms
+[01:58:37.296] Server  LOG      ✓ Compiled in 192ms
+[01:58:42.478] Server  LOG      ✓ Compiled in 186ms
+[01:58:58.480] Server  LOG      ✓ Compiled in 115ms
+[01:59:00.233] Server  LOG      ✓ Compiled in 86ms
+[02:06:14.715] Server  LOG      ✓ Compiled in 424ms
+[02:06:24.109] Server  LOG      ✓ Compiled in 375ms
+[02:06:27.456] Server  LOG      ✓ Compiled in 376ms
+[02:06:32.108] Server  LOG      ✓ Compiled in 332ms
+[02:06:36.515] Server  LOG      ✓ Compiled in 122ms
+[02:06:38.383] Server  LOG      ✓ Compiled in 326ms
+[02:06:43.056] Server  LOG      ✓ Compiled in 377ms
+[02:06:51.103] Server  LOG      ✓ Compiled in 131ms
+[02:06:52.543] Server  LOG      ✓ Compiled in 124ms
+[02:06:54.905] Server  LOG      ✓ Compiled in 338ms
+[02:06:57.033] Server  LOG      ✓ Compiled in 407ms
+[02:07:02.397] Server  LOG      ✓ Compiled in 382ms
+[02:07:09.091] Server  LOG      ✓ Compiled in 364ms
+[02:07:10.727] Server  LOG      ✓ Compiled in 366ms
+[02:07:15.992] Server  LOG      ✓ Compiled in 134ms
+[02:07:18.003] Server  LOG      ✓ Compiled in 124ms
+[02:07:19.409] Server  LOG      ✓ Compiled in 421ms
+[02:07:34.617] Server  LOG      ✓ Compiled in 375ms
+[02:07:45.997] Server  LOG      ✓ Compiled in 93ms
+[02:07:47.848] Server  LOG      ✓ Compiled in 78ms
+[02:07:50.649] Server  LOG      ✓ Compiled in 412ms
+[02:08:00.016] Server  LOG      ✓ Compiled in 112ms
+[02:08:02.862] Server  LOG      ✓ Compiled in 408ms
+[02:08:34.876] Server  LOG      ✓ Compiled in 351ms
+[02:08:38.647] Server  LOG      ✓ Compiled in 383ms
+[02:08:42.547] Server  LOG      ✓ Compiled in 383ms
+[02:08:45.064] Server  LOG      ✓ Compiled in 297ms
+[02:08:48.114] Server  LOG      ✓ Compiled in 370ms
+[02:08:54.603] Server  LOG      ✓ Compiled in 392ms
+[02:09:15.646] Server  LOG      ✓ Compiled in 144ms
+[02:09:18.752] Server  LOG      ✓ Compiled in 462ms
+[02:09:26.375] Server  LOG      ✓ Compiled in 123ms
+[02:09:29.800] Server  LOG      ✓ Compiled in 396ms
+[02:09:34.458] Server  LOG      ✓ Compiled in 416ms
+[02:09:38.442] Server  LOG      ✓ Compiled in 322ms
+[02:09:42.479] Server  LOG      ✓ Compiled in 375ms
+[02:09:46.886] Server  LOG      ✓ Compiled in 379ms
+[02:09:50.706] Server  LOG      ✓ Compiled in 383ms
+[02:10:12.545] Server  LOG      ✓ Compiled in 374ms
+[02:10:22.596] Server  LOG      ✓ Compiled in 406ms
+[02:10:26.950] Server  LOG      ✓ Compiled in 390ms
+[02:10:33.156] Server  LOG      ✓ Compiled in 358ms
+[02:10:38.493] Server  LOG      ✓ Compiled in 306ms
+[02:10:42.373] Server  LOG      ✓ Compiled in 363ms
+[02:10:48.489] Server  LOG      ✓ Compiled in 114ms
+[02:10:59.074] Server  LOG      ✓ Compiled in 116ms
+[02:11:00.303] Server  LOG      ✓ Compiled in 166ms
+[02:11:06.230] Server  LOG      ✓ Compiled in 441ms
+[02:11:15.148] Server  LOG      ✓ Compiled in 339ms
+[02:11:46.567] Server  LOG      ✓ Compiled in 392ms
+[02:11:52.911] Server  LOG      ✓ Compiled in 345ms
+[02:12:02.780] Server  LOG      ✓ Compiled in 395ms
+[02:12:09.574] Server  LOG      ✓ Compiled in 391ms
+[02:12:14.566] Server  LOG      ✓ Compiled in 122ms
+[02:12:17.103] Server  LOG      ✓ Compiled in 323ms
+[02:12:24.306] Server  LOG      ✓ Compiled in 410ms
+[02:12:31.966] Server  LOG      ✓ Compiled in 454ms
+[02:12:37.684] Server  LOG      ✓ Compiled in 422ms
+[02:12:53.958] Server  LOG      ✓ Compiled in 370ms
+[02:16:00.109] Server  LOG      ✓ Compiled in 151ms
+[02:16:21.570] Server  LOG      ✓ Compiled in 150ms
+[02:16:33.248] Server  LOG      ✓ Compiled in 129ms
+[02:16:40.066] Server  LOG      ✓ Compiled in 131ms
+[02:16:41.494] Server  LOG      ✓ Compiled in 129ms
+[02:16:57.147] Server  LOG      ✓ Compiled in 117ms
+[02:17:07.709] Server  LOG      ✓ Compiled in 368ms
+[02:17:14.252] Server  LOG      ✓ Compiled in 119ms
+[02:17:24.255] Server  LOG      ✓ Compiled in 110ms
+[02:17:25.979] Server  LOG      ✓ Compiled in 128ms
+[02:17:27.621] Server  LOG      ✓ Compiled in 332ms
+[02:17:32.053] Server  LOG      ✓ Compiled in 99ms
+[02:17:33.444] Server  LOG      ✓ Compiled in 108ms
+[02:17:44.364] Server  LOG      ✓ Compiled in 124ms
+[02:17:46.526] Server  LOG      ✓ Compiled in 120ms
+[02:17:48.656] Server  LOG      ✓ Compiled in 148ms
+[02:17:50.845] Server  LOG      ✓ Compiled in 105ms
+[02:17:52.709] Server  LOG      ✓ Compiled in 407ms
+[02:18:00.542] Server  LOG      ✓ Compiled in 116ms
+[02:18:04.006] Server  LOG      ✓ Compiled in 427ms
+[02:18:05.782] Server  LOG      ✓ Compiled in 112ms
+[02:18:06.972] Server  LOG      ✓ Compiled in 117ms
+[02:18:08.466] Server  LOG      ✓ Compiled in 101ms
+[02:18:11.166] Server  LOG      ✓ Compiled in 153ms
+[02:18:12.932] Server  LOG      ✓ Compiled in 312ms
+[02:18:20.843] Server  LOG      ✓ Compiled in 128ms
+[02:18:24.034] Server  LOG      ✓ Compiled in 113ms
+[02:18:27.432] Server  LOG      ✓ Compiled in 480ms
+[02:18:34.181] Server  LOG      ✓ Compiled in 139ms
+[02:18:37.313] Server  LOG      ✓ Compiled in 373ms
+[02:18:39.559] Server  LOG      ✓ Compiled in 352ms
+[02:19:08.234] Server  LOG      ✓ Compiled in 127ms
+[02:19:12.450] Server  LOG      ✓ Compiled in 411ms
+[02:19:17.241] Server  LOG      ✓ Compiled in 110ms
+[02:19:19.983] Server  LOG      ✓ Compiled in 293ms
+[02:19:37.542] Server  LOG      ✓ Compiled in 159ms
+[02:19:43.790] Server  LOG      ✓ Compiled in 409ms
+[02:20:06.100] Server  LOG      ✓ Compiled in 139ms
+[02:20:10.441] Server  LOG      ✓ Compiled in 103ms
+[02:20:15.728] Server  LOG      ✓ Compiled in 404ms
+[02:20:26.810] Server  LOG      ✓ Compiled in 122ms
+[02:20:30.860] Server  LOG      ✓ Compiled in 402ms
+[02:20:41.101] Server  LOG      ✓ Compiled in 380ms
+[02:20:44.302] Server  LOG      ✓ Compiled in 133ms
+[02:20:50.496] Server  LOG      ✓ Compiled in 112ms
+[02:20:52.102] Server  LOG      ✓ Compiled in 396ms
+[17:51:16.660] Server  LOG      ✓ Compiled in 134ms
+[17:51:21.042] Server  LOG      ✓ Compiled in 143ms
+[17:51:26.366] Server  LOG      ✓ Compiled in 258ms
+[17:51:38.667] Server  LOG      ✓ Compiled in 106ms
+[17:51:40.818] Server  LOG      ✓ Compiled in 129ms
+[17:51:43.139] Server  LOG      ✓ Compiled in 389ms
+[17:51:48.083] Server  LOG      ✓ Compiled in 387ms
+[17:51:52.093] Server  LOG      ✓ Compiled in 364ms
+[17:51:57.043] Server  LOG      ✓ Compiled in 405ms
+[17:52:12.041] Server  LOG      ✓ Compiled in 106ms
+[17:52:16.791] Server  LOG      ✓ Compiled in 430ms
+[17:52:21.592] Server  LOG      ✓ Compiled in 349ms
+[17:52:26.520] Server  LOG      ✓ Compiled in 379ms
+[17:52:31.945] Server  LOG      ✓ Compiled in 114ms
+[17:52:40.596] Server  LOG      ✓ Compiled in 384ms
+[17:52:44.161] Server  LOG      ✓ Compiled in 345ms
+[17:52:48.130] Server  LOG      ✓ Compiled in 383ms
+[17:52:59.006] Server  LOG      ✓ Compiled in 352ms
+[17:53:02.571] Server  LOG      ✓ Compiled in 368ms
+[17:53:05.691] Server  LOG      ✓ Compiled in 334ms
+[17:53:09.707] Server  LOG      ✓ Compiled in 370ms
+[17:53:13.137] Server  LOG      ✓ Compiled in 355ms
+[17:53:17.217] Server  LOG      ✓ Compiled in 391ms
+[17:53:30.215] Server  LOG      ✓ Compiled in 368ms
+[17:53:44.561] Server  LOG      ✓ Compiled in 395ms
+[17:53:49.422] Server  LOG      ✓ Compiled in 374ms
+[17:53:54.102] Server  LOG      ✓ Compiled in 435ms
+[17:53:59.149] Server  LOG      ✓ Compiled in 363ms
+[17:54:02.173] Server  LOG      ✓ Compiled in 399ms
+[17:54:05.137] Server  LOG      ✓ Compiled in 328ms
+[17:54:12.352] Server  LOG      ✓ Compiled in 381ms
+[17:54:20.478] Server  LOG      ✓ Compiled in 360ms
+[17:54:36.575] Server  LOG      ✓ Compiled in 109ms
+[17:54:43.589] Server  LOG      ✓ Compiled in 132ms
+[17:55:59.209] Server  LOG      ✓ Compiled in 123ms
+[17:56:00.671] Server  LOG      ✓ Compiled in 113ms
+[17:58:29.940] Server  LOG      ✓ Compiled in 1121ms
+[17:58:34.190] Server  LOG      ✓ Compiled in 1690ms
+[17:59:35.224] Browser LOG     Refreshing page data due to server-side change
+[17:59:35.588] Server  LOG      ✓ Compiled in 508ms
+[17:59:41.186] Browser LOG     Refreshing page data due to server-side change
+[17:59:41.535] Server  LOG      ✓ Compiled in 435ms
+[18:00:43.995] Server  LOG      ✓ Compiled in 188ms
+[18:00:44.317] Browser LOG     Refreshing page data due to server-side change
+[18:00:48.775] Browser LOG     Refreshing page data due to server-side change
+[18:00:49.102] Server  LOG      ✓ Compiled in 452ms
+[18:02:01.746] Server  LOG      ✓ Compiled in 421ms
+[18:02:16.135] Server  LOG      ✓ Compiled in 438ms
+[18:02:19.572] Server  LOG      ✓ Compiled in 406ms
+[18:02:23.100] Server  LOG      ✓ Compiled in 439ms
+[18:02:36.344] Server  LOG      ✓ Compiled in 507ms
+[18:06:54.752] Server  LOG      ✓ Compiled in 153ms
+[18:07:58.666] Server  ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[18:07:59.885] Server  ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[18:07:59.894] Server  LOG      ✓ Compiled in 122ms
+[18:08:06.541] Server  ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[18:08:06.561] Server  LOG      ✓ Compiled in 125ms
+[18:08:11.852] Server  LOG      ✓ Compiled in 127ms
+[18:08:13.218] Server  LOG      ✓ Compiled in 134ms
+[18:10:16.354] Server  ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[18:10:16.366] Server  LOG      ✓ Compiled in 134ms
+[18:10:18.415] Server  LOG      ✓ Compiled in 118ms
+[18:10:22.517] Server  LOG      ✓ Compiled in 150ms
+[18:16:09.294] Server  LOG      ✓ Compiled in 157ms
+[18:16:12.654] Server  LOG      ✓ Compiled in 135ms
+[18:16:15.683] Server  LOG      ✓ Compiled in 132ms
+[18:16:36.675] Server  LOG      ✓ Compiled in 139ms
+[18:16:39.002] Server  LOG      ✓ Compiled in 131ms
+[18:16:50.949] Server  ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[18:16:51.340] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[18:17:03.155] Server  LOG      ✓ Compiled in 129ms
+[18:17:15.678] Browser LOG     Refreshing page data due to server-side change
+[18:17:15.832] Server  ERROR    ⨯ ReferenceError: imort is not defined
+[18:17:15.871] Server  ERROR    ⨯ ReferenceError: imort is not defined
+[18:17:16.055] Browser ERROR   uncaughtError: ReferenceError: imort is not defined
+[18:17:19.067] Server  LOG      ✓ Compiled in 109ms
+[18:17:20.775] Server  LOG      ✓ Compiled in 114ms
+[18:17:25.023] Server  LOG      ✓ Compiled in 114ms
+[18:17:49.554] Server  LOG      ✓ Compiled in 153ms
+[18:17:51.589] Server  LOG      ✓ Compiled in 121ms
+[18:18:05.273] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[18:18:05.401] Server  ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[18:18:10.535] Server  LOG      ✓ Compiled in 153ms
+[18:18:12.711] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[18:18:12.711] Browser ERROR   Warning: Prop `%s` did not match. Server: %s Client: %s%s loading "null" "lazy" 
+    at img
+    at eval (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_9b1b49db._.js?id=%255Bproject%255D%252Fnode_modules%252Fnext%252Fdist%252Fclient%252Fimage-component.js+%255Bclient%255D+%2528ecmascript%2529:174:62)
+    at eval (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_9b1b49db._.js?id=%255Bproject%255D%252Fnode_modules%252Fnext%252Fdist%252Fclient%252Fimage-component.js+%255Bclient%255D+%2528ecmascript%2529:275:47)
+    at div
+    at div
+    at section
+    at div
+    at div
+    at Home (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__24fb4104._.js?id=%255Bproject%255D%252Fpages%252Findex.js+%255Bclient%255D+%2528ecmascript%2529:127:160)
+    at AuthProvider (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__45dcca62._.js:488:25)
+    at MyApp (http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__45dcca62._.js:649:18)
+    at PathnameContextProviderAdapter (http://localhost:3000/_next/static/chunks/node_modules_next_dist_shared_lib_82dc2e9d._.js:5040:43)
+    at PagesDevOverlayErrorBoundary (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1129:9)
+    at PagesDevOverlayBridge (http://localhost:3000/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1906:34)
+    at Container (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:3041:1)
+    at AppContainer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:3140:25)
+    at Root (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:3348:17)
+[18:18:18.940] Server  ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[18:18:19.462] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[18:18:41.492] Server  LOG      ✓ Compiled in 108ms
+[18:18:47.544] Server  LOG      ✓ Compiled in 150ms
+[18:18:50.938] Server  LOG      ✓ Compiled in 401ms
+[18:18:55.884] Server  LOG      ✓ Compiled in 423ms
+[18:19:05.698] Server  LOG      ✓ Compiled in 526ms
+[18:21:38.115] Server  LOG      ✓ Compiled in 115ms
+[18:21:39.843] Server  LOG      ✓ Compiled in 398ms
+[18:21:55.782] Server  LOG      ✓ Compiled in 419ms
+[18:24:22.760] Server  LOG      ✓ Compiled in 112ms
+[18:24:26.729] Server  LOG      ✓ Compiled in 133ms
+[18:24:35.614] Server  LOG      ✓ Compiled in 138ms
+[18:24:38.915] Server  LOG      ✓ Compiled in 408ms
+[18:25:32.009] Server  LOG      ✓ Compiled in 125ms
+[18:25:35.136] Server  LOG      ✓ Compiled in 111ms
+[18:25:39.306] Server  LOG      ✓ Compiled in 117ms
+[18:25:40.625] Server  LOG      ✓ Compiled in 105ms
+[18:31:48.904] Server  LOG      ✓ Compiled in 212ms
+[18:32:04.751] Server  LOG      ✓ Compiled in 182ms
