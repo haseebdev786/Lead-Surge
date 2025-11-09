@@ -1,5 +1,5 @@
-[00:00:00.901] Server  LOG      ✓ Ready in 583ms
-[00:00:03.243] Server  ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+[00:00:00.898] Server  LOG      ✓ Ready in 580ms
+[00:00:26.781] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
 
 npx @next/codemod@latest new-link .
 

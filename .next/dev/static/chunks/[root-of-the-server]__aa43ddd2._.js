@@ -491,7 +491,7 @@ function AuthProvider({ children }) {
     const [user, setUser] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$index$2e$js__$5b$client$5d$__$28$ecmascript$29$__["useState"])(null);
     const [loading, setLoading] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$index$2e$js__$5b$client$5d$__$28$ecmascript$29$__["useState"])(true);
     // const apiBaseUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:4000/api';
-    const apiBaseUrl = ("TURBOPACK compile-time value", "http://localhost:4000/api") || 'https://lead-surge-backend2.vercel.app/api';
+    const apiBaseUrl = ("TURBOPACK compile-time value", "https://lead-surge-backend2.vercel.app/api") || 'https://lead-surge-backend2.vercel.app/api';
     // Fetch the current user's profile from the backend using the stored token.
     async function fetchMe(token, { showLoading = true } = {}) {
         if (showLoading) setLoading(true);

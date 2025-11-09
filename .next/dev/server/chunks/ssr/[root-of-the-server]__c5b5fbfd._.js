@@ -699,12 +699,12 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$context$2f$AuthContext$2e$js
             try {
                 const token = localStorage.getItem('token');
                 const [postsRes, templatesRes] = await Promise.all([
-                    fetch(`${("TURBOPACK compile-time value", "http://localhost:4000/api")}/posts`, {
+                    fetch(`${("TURBOPACK compile-time value", "https://lead-surge-backend2.vercel.app/api")}/posts`, {
                         headers: {
                             Authorization: `Bearer ${token}`
                         }
                     }),
-                    fetch(`${("TURBOPACK compile-time value", "http://localhost:4000/api")}/dms/templates`, {
+                    fetch(`${("TURBOPACK compile-time value", "https://lead-surge-backend2.vercel.app/api")}/dms/templates`, {
                         headers: {
                             Authorization: `Bearer ${token}`
                         }
