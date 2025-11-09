@@ -53,10 +53,10 @@ export default function Login() {
         <div className="absolute inset-x-0 -top-40 h-[28rem] bg-gradient-to-br from-sky-500/30 via-indigo-600/40 to-transparent blur-[160px]" />
         <div className="absolute inset-y-0 right-0 h-full w-1/2 bg-[radial-gradient(circle_at_top,_rgba(59,130,246,0.12),_transparent_60%)]" />
       </div>
-      <div className="relative mx-auto flex min-h-screen w-full max-w-6xl flex-col gap-10 px-6 py-12 lg:flex-row lg:items-center">
-        <header className="absolute left-6 right-6 top-6 flex items-center justify-between text-sm text-slate-200">
+      <div className="relative mx-auto flex min-h-screen w-full max-w-6xl flex-col gap-10 px-6 py-20 lg:flex-row lg:items-center">
+        <header className="absolute  left-6 right-6 top-6 flex items-center justify-between text-sm text-slate-200">
           <Link href="/" legacyBehavior>
-            <a className="text-lg font-semibold tracking-wide text-white hover:text-sky-300">Lead Surge</a>
+            <a className="text-2xl font-bold tracking-wide text-white hover:text-sky-300">Lead Surge</a>
           </Link>
         </header>
         <div className="hidden rounded-3xl border border-white/10 bg-white/5 px-10 py-12 text-slate-100 shadow-2xl shadow-slate-900/40 backdrop-blur-2xl lg:flex lg:flex-1 lg:flex-col">

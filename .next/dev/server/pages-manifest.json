@@ -1,15 +1,5 @@
 {
   "/": "pages/index.js",
   "/_app": "pages/_app.js",
-  "/_document": "pages/_document.js",
-  "/_error": "pages/_error.js",
-  "/account": "pages/account.js",
-  "/credits": "pages/credits.js",
-  "/dashboard": "pages/dashboard.js",
-  "/dm-templates": "pages/dm-templates.js",
-  "/hashtag-discovery": "pages/hashtag-discovery.js",
-  "/login": "pages/login.js",
-  "/post-scheduler": "pages/post-scheduler.js",
-  "/signup": "pages/signup.js",
-  "/subscription": "pages/subscription.js"
+  "/_document": "pages/_document.js"
 }

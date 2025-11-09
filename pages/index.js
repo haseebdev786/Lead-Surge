@@ -1,6 +1,4 @@
-import { useEffect } from 'react';
 import Link from 'next/link';
-import { useRouter } from 'next/router';
 import {
   BoltIcon,
   CalendarDaysIcon,
@@ -91,14 +89,6 @@ const stats = [
 ];
 
 export default function Home() {
-  const router = useRouter();
-  useEffect(() => {
-    const token = typeof window !== 'undefined' ? localStorage.getItem('token') : null;
-    if (token) {
-      router.replace('/dashboard');
-    }
-  }, [router]);
-
   return (
     <div className="min-h-screen bg-[#121212] text-white font-sans overflow-x-hidden px-12">
       <div className="relative mx-auto flex w-full max-w-7xl flex-col gap-20 px-6 pb-20 pt-8">
@@ -169,9 +159,9 @@ export default function Home() {
             </div>
           </div>
           {/* Isometric illustration placeholder */}
-          <div className="relative h-96 w-full flex items-center justify-center">
+          <div className="relative h-full w-full flex items-center justify-center">
             <div className="absolute inset-0 bg-gradient-to-br from-[#6A0DAD]/20 to-[#40E0D0]/20 opacity-30 blur-2xl rounded-3xl"></div>
-            <div className="absolute inset-4 border border-[#6A0DAD]/50 rounded-3xl flex items-center justify-center p-8">
+            <div className="absolute inset-4 border border-[#6A0DAD]/50 rounded-3xl flex items-center justify-center ">
               {/* Replace this placeholder image with your actual sophisticated isometric illustration */}
               <Image src={myImage} alt="Integrated System Illustration" className="w-full h-full object-contain rounded-2xl" />
             </div>

@@ -108,10 +108,10 @@ export function AuthProvider({ children }) {
    * Log the user out by clearing the stored token and user state. Redirect
    * to the login page afterwards.
    */
-  function logout() {
+  function logout({ redirectToLanding = true } = {}) {
     localStorage.removeItem('token');
     setUser(null);
-    router.push('/login');
+    router.push(redirectToLanding ? '/' : '/login');
   }
 
   return (

@@ -82,15 +82,15 @@ function Login() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
-                className: "relative mx-auto flex min-h-screen w-full max-w-6xl flex-col gap-10 px-6 py-12 lg:flex-row lg:items-center",
+                className: "relative mx-auto flex min-h-screen w-full max-w-6xl flex-col gap-10 px-6 py-20 lg:flex-row lg:items-center",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("header", {
-                        className: "absolute left-6 right-6 top-6 flex items-center justify-between text-sm text-slate-200",
+                        className: "absolute  left-6 right-6 top-6 flex items-center justify-between text-sm text-slate-200",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
                             href: "/",
                             legacyBehavior: true,
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                className: "text-lg font-semibold tracking-wide text-white hover:text-sky-300",
+                                className: "text-2xl font-bold tracking-wide text-white hover:text-sky-300",
                                 children: "Lead Surge"
                             }, void 0, false, {
                                 fileName: "[project]/pages/login.js",

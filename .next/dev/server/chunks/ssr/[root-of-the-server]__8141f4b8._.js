@@ -54,7 +54,8 @@ function AuthProvider({ children }) {
     const router = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$router$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["useRouter"])();
     const [user, setUser] = (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react__$5b$external$5d$__$28$react$2c$__cjs$29$__["useState"])(null);
     const [loading, setLoading] = (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react__$5b$external$5d$__$28$react$2c$__cjs$29$__["useState"])(true);
-    const apiBaseUrl = ("TURBOPACK compile-time value", "http://localhost:4000/api") || 'http://localhost:4000/api';
+    // const apiBaseUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:4000/api';
+    const apiBaseUrl = ("TURBOPACK compile-time value", "http://localhost:4000/api") || 'https://lead-surge-backend2.vercel.app/api';
     // Fetch the current user's profile from the backend using the stored token.
     async function fetchMe(token, { showLoading = true } = {}) {
         if (showLoading) setLoading(true);
@@ -151,10 +152,10 @@ function AuthProvider({ children }) {
     /**
    * Log the user out by clearing the stored token and user state. Redirect
    * to the login page afterwards.
-   */ function logout() {
+   */ function logout({ redirectToLanding = true } = {}) {
         localStorage.removeItem('token');
         setUser(null);
-        router.push('/login');
+        router.push(redirectToLanding ? '/' : '/login');
     }
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(AuthContext.Provider, {
         value: {
@@ -168,7 +169,7 @@ function AuthProvider({ children }) {
         children: children
     }, void 0, false, {
         fileName: "[project]/context/AuthContext.js",
-        lineNumber: 117,
+        lineNumber: 118,
         columnNumber: 5
     }, this);
 }
